@@ -10,7 +10,7 @@ Locate your Sublime Text `Packages` directory by using the menu item `Preference
 
 While inside the `Packages` directory, clone the theme repository:
 ```
-git clone https://github.com/AlexanderEkdahl/github-sublime-theme.git
+git clone https://github.com/fosooth/github-sublime-theme.git
 ```
 ### Download Manually
 
